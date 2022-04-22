@@ -21,6 +21,10 @@ nav a {
           text-decoration: solid;
 }
 
+nav a:hover {
+  background-color: beige;
+}
+
 @font-face {
   font-family: 'poppins';
   src: url("../assets/fonts/Poppins-Medium.ttf");
